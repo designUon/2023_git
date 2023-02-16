@@ -2,3 +2,5 @@
 git add . => 전체를 add
 git commit -m "0216 두번째 commit" => commit
 git log : commit이 2개인지 확인해보기
+
+처음 폴더에서 수정해보기
