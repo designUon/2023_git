@@ -4,3 +4,4 @@ git commit -m "0216 두번째 commit" => commit
 git log : commit이 2개인지 확인해보기
 
 처음 폴더에서 수정해보기
+git clone을 통해 전체를 복사해오면 git 내용이 살아있다
